@@ -1,296 +1,542 @@
 {
-  "id": 1125842083,
-  "type": "Feature",
-  "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"34.57149,31.66926,34.57149,31.66926",
-    "geom:latitude":31.66926,
-    "geom:longitude":34.57149,
-    "gn:country":"IL",
-    "gn:fcode":"PPL",
-    "gn:population":105995,
-    "iso:country":"IL",
-    "lbl:bbox":"34.55149,31.64926,34.59149,31.68926",
-    "lbl:latitude":31.66926,
-    "lbl:longitude":34.57149,
-    "lbl:max_zoom":14.0,
-    "lbl:min_zoom":9.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":7.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:afr_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:ara_x_preferred":[
-        "\u0639\u0633\u0642\u0644\u0627\u0646"
-    ],
-    "name:arc_x_preferred":[
-        "\u0710\u072b\u0729\u0720\u0718\u0722"
-    ],
-    "name:aze_x_preferred":[
-        "A\u015fkelon"
-    ],
-    "name:bel_x_preferred":[
-        "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
-    ],
-    "name:ben_x_preferred":[
-        "\u0986\u09b6\u0995\u09c7\u09b2\u09a8"
-    ],
-    "name:bul_x_preferred":[
-        "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
-    ],
-    "name:cat_x_preferred":[
-        "Ascal\u00f3"
-    ],
-    "name:ceb_x_preferred":[
-        "Ashqelon"
-    ],
-    "name:ces_x_preferred":[
-        "A\u0161kelon"
-    ],
-    "name:cym_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:dan_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:deu_x_preferred":[
-        "Aschkelon"
-    ],
-    "name:ell_x_preferred":[
-        "\u0391\u03c3\u03ba\u03b1\u03bb\u03ce\u03bd\u03b1"
-    ],
-    "name:ell_x_variant":[
-        "\u0391\u03c3\u03ba\u03b5\u03bb\u03cc\u03bd"
-    ],
-    "name:eng_x_preferred":[
-        "Ashquelon"
-    ],
-    "name:eng_x_variant":[
-        "Ashqelon",
-        "Ashkelon"
-    ],
-    "name:epo_x_preferred":[
-        "A\u015dkelon"
-    ],
-    "name:est_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:eus_x_preferred":[
-        "Axkelon"
-    ],
-    "name:fas_x_preferred":[
-        "\u0627\u0634\u06a9\u0644\u0648\u0646"
-    ],
-    "name:fin_x_preferred":[
-        "Askalon"
-    ],
-    "name:fra_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:glg_x_preferred":[
-        "Ascal\u00f3n"
-    ],
-    "name:glv_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:guj_x_preferred":[
-        "\u0a8f\u0ab8\u0acd\u0a95\u0ac7\u0ab2\u0acb\u0aa8"
-    ],
-    "name:heb_x_preferred":[
-        "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df"
-    ],
-    "name:hin_x_preferred":[
-        "\u0905\u0936\u094d\u0915\u0932\u094b\u0928"
-    ],
-    "name:hrv_x_preferred":[
-        "A\u0161kelon"
-    ],
-    "name:hun_x_preferred":[
-        "Askel\u00f3n"
-    ],
-    "name:hye_x_preferred":[
-        "\u0531\u0577\u056f\u0565\u056c\u0578\u0576"
-    ],
-    "name:ind_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:ita_x_preferred":[
-        "Ascalona"
-    ],
-    "name:jpn_x_preferred":[
-        "\u30a2\u30b7\u30e5\u30b1\u30ed\u30f3"
-    ],
-    "name:kan_x_preferred":[
-        "\u0c85\u0cb6\u0ccd\u0c95\u0cc6\u0cb2\u0cbe\u0ca8\u0ccd"
-    ],
-    "name:kat_x_preferred":[
-        "\u10d0\u10e8\u10d9\u10d4\u10da\u10dd\u10dc\u10d8"
-    ],
-    "name:kor_x_preferred":[
-        "\uc544\uc288\ucf08\ub860"
-    ],
-    "name:lad_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:lav_x_preferred":[
-        "A\u0161ketona"
-    ],
-    "name:lit_x_preferred":[
-        "A\u0161kelonas"
-    ],
-    "name:lmo_x_preferred":[
-        "Ascalun"
-    ],
-    "name:mar_x_preferred":[
-        "\u0905\u0936\u0915\u0932\u0949\u0928"
-    ],
-    "name:mkd_x_preferred":[
-        "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
-    ],
-    "name:msa_x_preferred":[
-        "Ashqelon"
-    ],
-    "name:nld_x_preferred":[
-        "Asjkelon"
-    ],
-    "name:nno_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:nob_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:oci_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:pol_x_preferred":[
-        "Aszkelon"
-    ],
-    "name:por_x_preferred":[
-        "Ascal\u00e3o"
-    ],
-    "name:ron_x_preferred":[
-        "A\u0219kelon"
-    ],
-    "name:rus_x_preferred":[
-        "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
-    ],
-    "name:sco_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:sin_x_preferred":[
-        "\u0d85\u0dc1\u0dca\u0d9a\u0dd9\u0dbd\u0ddd\u0db1\u0dca"
-    ],
-    "name:slv_x_preferred":[
-        "A\u0161kelon"
-    ],
-    "name:spa_x_preferred":[
-        "Ascal\u00f3n"
-    ],
-    "name:srp_x_preferred":[
-        "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
-    ],
-    "name:swe_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:tam_x_preferred":[
-        "\u0b86\u0bb7\u0bbf\u0b95\u0bc7\u0bb2\u0bcb\u0ba9\u0bcd"
-    ],
-    "name:tel_x_preferred":[
-        "\u0c05\u0c37\u0c4d\u0c15\u0c47\u0c32\u0c4b\u0c28\u0c4d"
-    ],
-    "name:tgl_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:tha_x_preferred":[
-        "\u0e2d\u0e31\u0e0a\u0e40\u0e04\u0e25\u0e2d\u0e19"
-    ],
-    "name:tur_x_preferred":[
-        "A\u015fkelon"
-    ],
-    "name:ukr_x_preferred":[
-        "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
-    ],
-    "name:und_x_variant":[
-        "Majdal"
-    ],
-    "name:urd_x_preferred":[
-        "\u0639\u0633\u0642\u0644\u0627\u0646"
-    ],
-    "name:vec_x_preferred":[
-        "Ascalona"
-    ],
-    "name:vie_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:war_x_preferred":[
-        "Ashkelon"
-    ],
-    "name:yid_x_preferred":[
-        "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df"
-    ],
-    "name:zho_x_preferred":[
-        "\u4e9a\u5b9e\u57fa\u4f26"
-    ],
-    "qs_pg:aaroncc":"IL",
-    "qs_pg:gn_country":"IL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":295620,
-    "qs_pg:gn_pop":105995,
-    "qs_pg:name":"Ashqelon",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":9,
-    "qs_pg:qs_id":203770,
-    "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632315,
-        85672531,
-        1108720841
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":295620,
-        "qs_pg:id":203770,
-        "wd:id":"Q60956"
+    "id": 1125842083,
+    "type": "Feature",
+    "properties": {
+        "edtf:cessation": "uuuu",
+        "edtf:inception": "uuuu",
+        "geom:area": 0.0,
+        "geom:area_square_m": 0.0,
+        "geom:bbox": "34.57149,31.66926,34.57149,31.66926",
+        "geom:latitude": 31.66926,
+        "geom:longitude": 34.57149,
+        "gn:country": "IL",
+        "gn:fcode": "PPL",
+        "gn:population": 105995,
+        "iso:country": "IL",
+        "lbl:bbox": "34.55149,31.64926,34.59149,31.68926",
+        "lbl:latitude": 31.66926,
+        "lbl:longitude": 34.57149,
+        "lbl:max_zoom": 14.0,
+        "lbl:min_zoom": 9.0,
+        "mz:hierarchy_label": 1,
+        "mz:is_current": 1,
+        "mz:min_zoom": 7.0,
+        "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+        "name:afr_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:ara_x_preferred": [
+            "\u0639\u0633\u0642\u0644\u0627\u0646"
+        ],
+        "name:arc_x_preferred": [
+            "\u0710\u072b\u0729\u0720\u0718\u0722"
+        ],
+        "name:aze_x_preferred": [
+            "A\u015fkelon"
+        ],
+        "name:bel_x_preferred": [
+            "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
+        ],
+        "name:ben_x_preferred": [
+            "\u0986\u09b6\u0995\u09c7\u09b2\u09a8"
+        ],
+        "name:bul_x_preferred": [
+            "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
+        ],
+        "name:cat_x_preferred": [
+            "Ascal\u00f3"
+        ],
+        "name:ceb_x_preferred": [
+            "Ashqelon"
+        ],
+        "name:ces_x_preferred": [
+            "A\u0161kelon"
+        ],
+        "name:cym_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:dan_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:deu_x_preferred": [
+            "Aschkelon"
+        ],
+        "name:ell_x_preferred": [
+            "\u0391\u03c3\u03ba\u03b1\u03bb\u03ce\u03bd\u03b1"
+        ],
+        "name:ell_x_variant": [
+            "\u0391\u03c3\u03ba\u03b5\u03bb\u03cc\u03bd"
+        ],
+        "name:eng_x_preferred": [
+            "Ashquelon"
+        ],
+        "name:eng_x_variant": [
+            "Ashqelon",
+            "Ashkelon"
+        ],
+        "name:epo_x_preferred": [
+            "A\u015dkelon"
+        ],
+        "name:est_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:eus_x_preferred": [
+            "Axkelon"
+        ],
+        "name:fas_x_preferred": [
+            "\u0627\u0634\u06a9\u0644\u0648\u0646"
+        ],
+        "name:fin_x_preferred": [
+            "Askalon"
+        ],
+        "name:fra_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:glg_x_preferred": [
+            "Ascal\u00f3n"
+        ],
+        "name:glv_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:guj_x_preferred": [
+            "\u0a8f\u0ab8\u0acd\u0a95\u0ac7\u0ab2\u0acb\u0aa8"
+        ],
+        "name:heb_x_preferred": [
+            "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df"
+        ],
+        "name:hin_x_preferred": [
+            "\u0905\u0936\u094d\u0915\u0932\u094b\u0928"
+        ],
+        "name:hrv_x_preferred": [
+            "A\u0161kelon"
+        ],
+        "name:hun_x_preferred": [
+            "Askel\u00f3n"
+        ],
+        "name:hye_x_preferred": [
+            "\u0531\u0577\u056f\u0565\u056c\u0578\u0576"
+        ],
+        "name:ind_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:ita_x_preferred": [
+            "Ascalona"
+        ],
+        "name:jpn_x_preferred": [
+            "\u30a2\u30b7\u30e5\u30b1\u30ed\u30f3"
+        ],
+        "name:kan_x_preferred": [
+            "\u0c85\u0cb6\u0ccd\u0c95\u0cc6\u0cb2\u0cbe\u0ca8\u0ccd"
+        ],
+        "name:kat_x_preferred": [
+            "\u10d0\u10e8\u10d9\u10d4\u10da\u10dd\u10dc\u10d8"
+        ],
+        "name:kor_x_preferred": [
+            "\uc544\uc288\ucf08\ub860"
+        ],
+        "name:lad_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:lav_x_preferred": [
+            "A\u0161ketona"
+        ],
+        "name:lit_x_preferred": [
+            "A\u0161kelonas"
+        ],
+        "name:lmo_x_preferred": [
+            "Ascalun"
+        ],
+        "name:mar_x_preferred": [
+            "\u0905\u0936\u0915\u0932\u0949\u0928"
+        ],
+        "name:mkd_x_preferred": [
+            "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
+        ],
+        "name:msa_x_preferred": [
+            "Ashqelon"
+        ],
+        "name:nld_x_preferred": [
+            "Asjkelon"
+        ],
+        "name:nno_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:nob_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:oci_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:pol_x_preferred": [
+            "Aszkelon"
+        ],
+        "name:por_x_preferred": [
+            "Ascal\u00e3o"
+        ],
+        "name:ron_x_preferred": [
+            "A\u0219kelon"
+        ],
+        "name:rus_x_preferred": [
+            "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
+        ],
+        "name:sco_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:sin_x_preferred": [
+            "\u0d85\u0dc1\u0dca\u0d9a\u0dd9\u0dbd\u0ddd\u0db1\u0dca"
+        ],
+        "name:slv_x_preferred": [
+            "A\u0161kelon"
+        ],
+        "name:spa_x_preferred": [
+            "Ascal\u00f3n"
+        ],
+        "name:srp_x_preferred": [
+            "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
+        ],
+        "name:swe_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:tam_x_preferred": [
+            "\u0b86\u0bb7\u0bbf\u0b95\u0bc7\u0bb2\u0bcb\u0ba9\u0bcd"
+        ],
+        "name:tel_x_preferred": [
+            "\u0c05\u0c37\u0c4d\u0c15\u0c47\u0c32\u0c4b\u0c28\u0c4d"
+        ],
+        "name:tgl_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:tha_x_preferred": [
+            "\u0e2d\u0e31\u0e0a\u0e40\u0e04\u0e25\u0e2d\u0e19"
+        ],
+        "name:tur_x_preferred": [
+            "A\u015fkelon"
+        ],
+        "name:ukr_x_preferred": [
+            "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
+        ],
+        "name:und_x_variant": [
+            "Majdal"
+        ],
+        "name:urd_x_preferred": [
+            "\u0639\u0633\u0642\u0644\u0627\u0646"
+        ],
+        "name:vec_x_preferred": [
+            "Ascalona"
+        ],
+        "name:vie_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:war_x_preferred": [
+            "Ashkelon"
+        ],
+        "name:yid_x_preferred": [
+            "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df"
+        ],
+        "name:zho_x_preferred": [
+            "\u4e9a\u5b9e\u57fa\u4f26"
+        ],
+        "qs_pg:aaroncc": "IL",
+        "qs_pg:gn_country": "IL",
+        "qs_pg:gn_fcode": "PPL",
+        "qs_pg:gn_id": 295620,
+        "qs_pg:gn_pop": 105995,
+        "qs_pg:name": "Ashqelon",
+        "qs_pg:photos_9r": 0,
+        "qs_pg:photos_sr": 0,
+        "qs_pg:pop_sr": 9,
+        "qs_pg:qs_id": 203770,
+        "qs_pg:qs_pg_placetype": "locality",
+        "src:geom": "qs_pg",
+        "src:lbl_centroid": "qs_pg",
+        "src:population": "geonames",
+        "wof:belongsto": [
+            102191569,
+            85632315,
+            85672531,
+            1108720841
+        ],
+        "wof:breaches": [],
+        "wof:concordances": {
+            "gn:id": 295620,
+            "qs_pg:id": 203770,
+            "wd:id": "Q60956"
+        },
+        "wof:country": "IL",
+        "wof:created": 1497292976,
+        "wof:geomhash": "72b070bee4215a998b5b5d3a8161bbae",
+        "wof:hierarchy": [{
+            "continent_id": 102191569,
+            "country_id": 85632315,
+            "county_id": 1108720841,
+            "locality_id": 1125842083,
+            "region_id": 85672531
+        }],
+        "wof:id": 1125842083,
+        "wof:lastmodified": 1566680689,
+        "wof:name": "Ashqelon",
+        "wof:parent_id": 1108720841,
+        "wof:placetype": "locality",
+        "wof:population": 105995,
+        "wof:population_rank": 9,
+        "wof:repo": "whosonfirst-data-admin-il",
+        "wof:superseded_by": [],
+        "wof:supersedes": [],
+        "wof:tags": []
     },
-    "wof:country":"IL",
-    "wof:created":1497292976,
-    "wof:geomhash":"72b070bee4215a998b5b5d3a8161bbae",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632315,
-            "county_id":1108720841,
-            "locality_id":1125842083,
-            "region_id":85672531
-        }
+    "bbox": [
+        34.49210592264834,
+        31.619760529979622,
+        34.614340958304396,
+        31.718283157733705
     ],
-    "wof:id":1125842083,
-    "wof:lastmodified":1566680689,
-    "wof:name":"Ashqelon",
-    "wof:parent_id":1108720841,
-    "wof:placetype":"locality",
-    "wof:population":105995,
-    "wof:population_rank":9,
-    "wof:repo":"whosonfirst-data-admin-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    34.57149,
-    31.66926,
-    34.57149,
-    31.66926
-],
-  "geometry": {"coordinates":[34.57149,31.66926],"type":"Point"}
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [34.5769462, 31.7178506],
+                [34.5760295, 31.7182832],
+                [34.5600631, 31.6928206],
+                [34.5521118, 31.6863679],
+                [34.5445941, 31.6729269],
+                [34.522217, 31.6437267],
+                [34.51314, 31.639736],
+                [34.5121585, 31.6331634],
+                [34.5120389, 31.6331717],
+                [34.4932535, 31.6377216],
+                [34.4921059, 31.6342522],
+                [34.5110882, 31.6296568],
+                [34.515092, 31.6275797],
+                [34.5150714, 31.6275538],
+                [34.5184077, 31.6257754],
+                [34.5201637, 31.6278147],
+                [34.5234914, 31.6260132],
+                [34.5255722, 31.6246259],
+                [34.5273044, 31.6235357],
+                [34.5301787, 31.6217798],
+                [34.5340554, 31.6197605],
+                [34.5362452, 31.6221911],
+                [34.5369446, 31.6228187],
+                [34.5380844, 31.6236769],
+                [34.5383128, 31.6240089],
+                [34.5394916, 31.625002],
+                [34.5374746, 31.6261285],
+                [34.5355191, 31.6272774],
+                [34.5340993, 31.6281448],
+                [34.5354394, 31.6283475],
+                [34.5441349, 31.6284152],
+                [34.5512855, 31.6283988],
+                [34.5518677, 31.628463],
+                [34.553409, 31.6286798],
+                [34.5573455, 31.6291805],
+                [34.5603542, 31.6307514],
+                [34.5614891, 31.6313715],
+                [34.5633265, 31.6324623],
+                [34.5644115, 31.6330777],
+                [34.5657276, 31.6338502],
+                [34.5655567, 31.6343984],
+                [34.5665849, 31.6349936],
+                [34.5672722, 31.6353673],
+                [34.5674005, 31.6353969],
+                [34.5690577, 31.6363453],
+                [34.5702355, 31.6368491],
+                [34.5720927, 31.6377759],
+                [34.5731241, 31.6382587],
+                [34.5770292, 31.639602],
+                [34.5802639, 31.6408271],
+                [34.5803014, 31.6407684],
+                [34.5808155, 31.6404513],
+                [34.5818276, 31.6398779],
+                [34.5835359, 31.6388348],
+                [34.584408, 31.6384202],
+                [34.5850641, 31.6379201],
+                [34.5855896, 31.637472],
+                [34.5863063, 31.6369992],
+                [34.5873918, 31.6365919],
+                [34.5880731, 31.6362505],
+                [34.5886003, 31.6359391],
+                [34.5890534, 31.6356411],
+                [34.5889896, 31.6355599],
+                [34.589897, 31.6350578],
+                [34.5912478, 31.6377377],
+                [34.5924409, 31.6407192],
+                [34.5926114, 31.6413366],
+                [34.5926994, 31.6418132],
+                [34.5928059, 31.6426168],
+                [34.5926443, 31.6426044],
+                [34.5928014, 31.6438699],
+                [34.5928699, 31.6441814],
+                [34.5929091, 31.6442766],
+                [34.5929555, 31.6443251],
+                [34.5930155, 31.6444789],
+                [34.5930354, 31.6445982],
+                [34.5931528, 31.6448207],
+                [34.5932242, 31.6450104],
+                [34.5950014, 31.6484527],
+                [34.5951802, 31.6487498],
+                [34.5952363, 31.6488378],
+                [34.5966982, 31.6505057],
+                [34.5964214, 31.6505742],
+                [34.5977093, 31.6520543],
+                [34.5979751, 31.6524101],
+                [34.5982919, 31.6529322],
+                [34.5985298, 31.6534335],
+                [34.5987868, 31.6540624],
+                [34.5990275, 31.6539733],
+                [34.599709, 31.6556425],
+                [34.6001254, 31.65609],
+                [34.6008984, 31.6568017],
+                [34.6026945, 31.658312],
+                [34.6051818, 31.6604668],
+                [34.6060361, 31.661357],
+                [34.6066582, 31.6621323],
+                [34.6069595, 31.6629463],
+                [34.6070498, 31.6636574],
+                [34.6070931, 31.665647],
+                [34.6067721, 31.6657202],
+                [34.6067945, 31.6682732],
+                [34.6068628, 31.669357],
+                [34.6070073, 31.6703016],
+                [34.6072785, 31.6710324],
+                [34.6085691, 31.6732053],
+                [34.609312, 31.674732],
+                [34.6098039, 31.6763474],
+                [34.6100458, 31.6763456],
+                [34.6101033, 31.6800887],
+                [34.6100845, 31.6813785],
+                [34.6094035, 31.6814131],
+                [34.6093812, 31.6828805],
+                [34.6093867, 31.683776],
+                [34.6094782, 31.6842776],
+                [34.6097051, 31.6849769],
+                [34.6106941, 31.6869851],
+                [34.6107993, 31.6869339],
+                [34.6117673, 31.688709],
+                [34.611792, 31.6888135],
+                [34.6121541, 31.6894658],
+                [34.6121199, 31.689479],
+                [34.6128146, 31.690765],
+                [34.6133637, 31.6920881],
+                [34.6135186, 31.692531],
+                [34.6138047, 31.6933938],
+                [34.614341, 31.6951347],
+                [34.6142874, 31.6952446],
+                [34.6137568, 31.6953701],
+                [34.6135939, 31.6954239],
+                [34.6128107, 31.6957327],
+                [34.6118192, 31.6961704],
+                [34.6118696, 31.69645],
+                [34.6107625, 31.6964353],
+                [34.6098367, 31.6963978],
+                [34.6097594, 31.6963713],
+                [34.6096757, 31.6962818],
+                [34.6096527, 31.6957845],
+                [34.6096054, 31.6954309],
+                [34.6095123, 31.6950384],
+                [34.6093423, 31.6945712],
+                [34.609181, 31.694243],
+                [34.6090147, 31.6939658],
+                [34.6087526, 31.6936075],
+                [34.6084524, 31.6932717],
+                [34.6074176, 31.6939136],
+                [34.6070854, 31.6936214],
+                [34.6067167, 31.6933631],
+                [34.6064394, 31.6932043],
+                [34.6060197, 31.6930112],
+                [34.6056223, 31.692873],
+                [34.6052569, 31.6927797],
+                [34.6047886, 31.6927034],
+                [34.604361, 31.6926739],
+                [34.6037538, 31.6942383],
+                [34.6029402, 31.6957437],
+                [34.5997997, 31.697523],
+                [34.5996469, 31.6975947],
+                [34.5978139, 31.6986788],
+                [34.5985504, 31.6991917],
+                [34.599039, 31.6995008],
+                [34.5997072, 31.6998928],
+                [34.6002202, 31.7001714],
+                [34.6008828, 31.7005099],
+                [34.6015014, 31.7008035],
+                [34.6018962, 31.7009738],
+                [34.6026213, 31.7012545],
+                [34.6031142, 31.7014227],
+                [34.6038661, 31.701646],
+                [34.6046311, 31.7018339],
+                [34.6050609, 31.7019229],
+                [34.6057546, 31.702042],
+                [34.6067178, 31.7021586],
+                [34.6076521, 31.7022331],
+                [34.6082267, 31.702328],
+                [34.6085847, 31.702416],
+                [34.609033, 31.7025601],
+                [34.6093227, 31.7026749],
+                [34.6095698, 31.7028122],
+                [34.6096595, 31.7027884],
+                [34.6091098, 31.7058116],
+                [34.6096449, 31.7064193],
+                [34.6072099, 31.7077341],
+                [34.6072161, 31.7077951],
+                [34.6075788, 31.7080312],
+                [34.6081471, 31.7084966],
+                [34.6082106, 31.7085719],
+                [34.6082892, 31.7086004],
+                [34.6085467, 31.7090243],
+                [34.6074088, 31.7094858],
+                [34.606753, 31.710135],
+                [34.6050443, 31.7089104],
+                [34.6052468, 31.7087626],
+                [34.6049042, 31.7085978],
+                [34.6042239, 31.7083052],
+                [34.6028363, 31.7071213],
+                [34.6023308, 31.7064487],
+                [34.6021893, 31.7061417],
+                [34.6021193, 31.705881],
+                [34.602121, 31.7056207],
+                [34.6021521, 31.7055037],
+                [34.6020111, 31.705476],
+                [34.6019199, 31.7055257],
+                [34.6015594, 31.7052816],
+                [34.6016351, 31.7052183],
+                [34.6001856, 31.7041647],
+                [34.5974196, 31.7022683],
+                [34.5967188, 31.7023723],
+                [34.5961164, 31.7023909],
+                [34.5956905, 31.7022816],
+                [34.5952149, 31.7021077],
+                [34.5947305, 31.7018755],
+                [34.5943897, 31.7016532],
+                [34.594045, 31.7013554],
+                [34.5934061, 31.7014732],
+                [34.5934576, 31.7016036],
+                [34.5930377, 31.7019313],
+                [34.5932425, 31.7027699],
+                [34.593244, 31.703798],
+                [34.593421, 31.7064394],
+                [34.5933151, 31.7065287],
+                [34.5932181, 31.7064661],
+                [34.5927439, 31.7070205],
+                [34.5923666, 31.7073715],
+                [34.591158, 31.7094509],
+                [34.5911001, 31.7094727],
+                [34.5885729, 31.7093758],
+                [34.5889794, 31.7102903],
+                [34.588965, 31.7103469],
+                [34.5883227, 31.7110017],
+                [34.5874158, 31.7115191],
+                [34.5870544, 31.7118039],
+                [34.585685, 31.7121226],
+                [34.5842795, 31.7125365],
+                [34.5847985, 31.7131519],
+                [34.5847982, 31.7132031],
+                [34.5837576, 31.7143782],
+                [34.5834716, 31.7145309],
+                [34.5827436, 31.7149694],
+                [34.5811091, 31.7156817],
+                [34.5812152, 31.7158355],
+                [34.5778862, 31.7173614],
+                [34.5769462, 31.7178506]
+            ]
+        ]
+    }
 }
